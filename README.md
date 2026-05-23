@@ -6,15 +6,17 @@ I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to 
 
 
 ## 📍Location
--
+
 **'San Manuel, AKC Country Home Dagot rd.'**
 
-**'Hobbies'**
+##Hobbies
+-
 -Reading wattpad books
 -Cooking
 -Cleaning
 -Traveling
--
+
+
 
 
 **'Foods'**
