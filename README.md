@@ -7,7 +7,7 @@ I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to 
 
 ## 📍Location
 
--San Manuel, AKC Country Home Dagot rd.
+San Manuel, AKC Country Home Dagot rd.
 
 **Contact**
 -
@@ -16,29 +16,28 @@ Email:abelamikee27@gmail.com
 
 **Hobbies**
 -
--Reading wattpad books
--Cooking
--Cleaning
--Traveling
+•Reading wattpad booksCooking
+•Cleaning
+•Traveling
 
 **Foods**
 -
--Afritada
--Adobo
+•Afritada
+•Adobo
 
 
 **Drinks**
 -
--Matcha
--Coke
+•Matcha
+•Coke
 
 
 **Colors**
 -
-**'Purple'**
-**'Pink'**
-**'White'**
-**'Black'**
+•Purple
+•Pink
+•White
+•Black
 
 
 |Role    | Instituation            |
@@ -56,13 +55,14 @@ Email:abelamikee27@gmail.com
 |C++        |
 
 
-##Project
+**Project**
 -
--Arduino LED Blink
--Solar Tracker
--Arduino LED Blinking using tinkercad
--EasyEDA schematic
--ESP32 expansion board
+•Arduino LED Blink
+•Solar Tracker
+•Arduino LED Blinking using tinkercad
+•EasyEDA schematic
+•ESP32 expansion board
 
-##My main goal
--To be success and have a Engr. in our family
+**My main goal**
+-
+To be success and have a Engr. in our family
