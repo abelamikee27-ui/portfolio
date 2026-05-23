@@ -40,9 +40,13 @@ Email:abelamikee27@gmail.com
 •Black
 
 
+
+
 |Role    | Instituation            |
 |--------|-------------------------|
 |Students|Electronics Engineering  |
+
+
 
 |     Family        |
 |-------------------|
@@ -50,9 +54,11 @@ Email:abelamikee27@gmail.com
 |two girls          |
 |four boys          |
 
+
 |Coding     |
 |-----------|
 |C++        |
+
 
 
 **Project**
@@ -62,6 +68,7 @@ Email:abelamikee27@gmail.com
 •Arduino LED Blinking using tinkercad
 •EasyEDA schematic
 •ESP32 expansion board
+
 
 **My main goal**
 -
