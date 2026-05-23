@@ -1,7 +1,12 @@
 # Mikee C. Abela
 
-**'Softball'**
-**'Reading Wattpad books'**
+**Skill**
+-Playing Softball
+-
+
+**Hobbies**
+-Reading Wattpad books
+-
 
 **'San Manuel, AKC Country Home Dagot rd.'**
 
@@ -12,6 +17,14 @@
 
 **Drinks**
 -Matcha
+-Coke
+-
+
+**Colors**
+-Purple
+-Pink
+-White
+-Black
 -
 
 |Role    | Instituation            |
