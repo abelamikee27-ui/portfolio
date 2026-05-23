@@ -7,7 +7,11 @@ I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to 
 
 ## 📍Location
 
-**'San Manuel, AKC Country Home Dagot rd.'**
+-San Manuel, AKC Country Home Dagot rd.
+
+##Contact
+-
+Github: 
 
 ##Hobbies
 -
@@ -15,9 +19,6 @@ I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to 
 -Cooking
 -Cleaning
 -Traveling
-
-
-
 
 **'Foods'**
 -
@@ -52,3 +53,15 @@ I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to 
 |Coding     |
 |-----------|
 |C++        |
+
+
+##Project
+-
+-Arduino LED Blink
+-Solar Tracker
+-Arduino LED Blinking using tinkercad
+-EasyEDA schematic
+-ESP32 expansion board
+
+##My main goal
+-To be success and have a Engr. in our family
