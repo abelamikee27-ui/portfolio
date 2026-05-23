@@ -14,6 +14,10 @@
 |--------|-------------|
 |Students|Engineering  |
 
-|Family           |
-|------------------|
-|We are 6 siblings|
+|     Family        |
+|-------------------|
+|We are six siblings|
+|-------------------|
+|two girls           |
+|--------------------|
+|four boys           |
