@@ -9,16 +9,24 @@ I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to 
 -
 **'San Manuel, AKC Country Home Dagot rd.'**
 
-**Foods**
+**'Hobbies'**
+-Reading wattpad books
+-Cooking
+-Cleaning
+-Traveling
 -
-**'Afritada'**
-**'Adobo'**
+
+
+**'Foods'**
+-
+-Afritada
+-Adobo
 
 
 **Drinks**
 -
-**'Matcha'**
-**'Coke'**
+-Matcha
+-Coke
 
 
 **Colors**
