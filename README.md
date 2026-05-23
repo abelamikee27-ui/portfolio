@@ -17,13 +17,13 @@ Email:abelamikee27@gmail.com
 **Hobbies**
 -
 •Reading wattpad booksCooking
-•Cleaning
+-Cleaning
 •Traveling
 
 **Foods**
 -
 •Afritada
-•Adobo
+-Adobo
 
 
 **Drinks**
