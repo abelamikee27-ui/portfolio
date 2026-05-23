@@ -22,21 +22,21 @@ CleaningTraveling
 **Foods**
 ---
 -Afritada
--Adobo
+Adobo
 
 
 **Drinks**
 ---
-Matcha
+-Matcha
 Coke
 
 
 **Colors**
 ---
 -Purple
--Pink
--White
--Black
+Pink
+White
+Black
 
 
 
@@ -61,12 +61,12 @@ Coke
 
 
 **Project**
--
+---
 -Arduino LED Blink
--Solar Tracker
--Arduino LED Blinking using tinkercad
--EasyEDA schematic
--ESP32 expansion board
+Solar Tracker
+Arduino LED Blinking using tinkercad
+EasyEDA schematic
+ESP32 expansion board
 
 
 **My main goal**
