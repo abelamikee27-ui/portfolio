@@ -5,7 +5,7 @@
 I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to lern new things and all walks of life, especially technology and practical skills.
 
 
-##Location
+## 📍Location
 -
 **'San Manuel, AKC Country Home Dagot rd.'**
 
