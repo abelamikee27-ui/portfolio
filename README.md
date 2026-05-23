@@ -16,28 +16,27 @@ Email:abelamikee27@gmail.com
 
 **Hobbies**
 -
-**Reading wattpad booksCooking**
-**Cleaning**
-**Traveling**
+Reading wattpad booksCooking
+CleaningTraveling
 
 **Foods**
 -
-**Afritada**
-**Adobo**
+Afritada
+Adobo
 
 
 **Drinks**
 -
-**Matcha**
-**Coke**
+Matcha
+Coke
 
 
 **Colors**
 -
-**Purple**
-**Pink**
-**White**
-**Black**
+Purple
+Pink
+White
+Black
 
 
 
@@ -63,11 +62,11 @@ Email:abelamikee27@gmail.com
 
 **Project**
 -
-**Arduino LED Blink**
-**Solar Tracker**
-**Arduino LED Blinking using tinkercad**
-**EasyEDA schematic**
-**ESP32 expansion board**
+Arduino LED Blink
+Solar Tracker
+Arduino LED Blinking using tinkercad
+EasyEDA schematic
+ESP32 expansion board
 
 
 **My main goal**
