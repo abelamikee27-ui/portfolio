@@ -1,33 +1,37 @@
 # Mikee C. Abela
 
 **Skills**
--Cooking
+**'Cooking'**
 -
 
 **Hobbies**
--Reading Wattpad books
+**'Reading Wattpad books'**
 -
 
 **Sports**
--Softball
--Futsal
+**'Softball'**
+**'Futsal'**
 -
 
+**Location**
 **'San Manuel, AKC Country Home Dagot rd.'**
+-
 
 **Foods**
--Afritada, Adobo
+**'Afritada'**
+**'Adobo'**
 -
 
 **Drinks**
--Matcha, Coke
+**'Matcha'**
+**'Coke'**
 -
 
 **Colors**
--Purple
--Pink
--White
--Black
+**'Purple'**
+**'Pink'**
+**'White'**
+**'Black'**
 -
 
 |Role    | Instituation            |
