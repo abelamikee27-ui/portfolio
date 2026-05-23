@@ -1,25 +1,13 @@
 # Mikee C. Abela
 
-**Skills**
+##About me
 -
-**'Cooking'**
+I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to lern new things and all walks of life, especially technology and practical skills.
+---
 
-
-**Hobbies**
--
-**'Reading Wattpad books'**
-
-
-**Sports**
--
-**'Softball'**
-**'Futsal'**
-
-
-**Location**
--
+##Location
 **'San Manuel, AKC Country Home Dagot rd.'**
-
+---
 
 **Foods**
 -
