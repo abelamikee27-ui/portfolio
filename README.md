@@ -17,10 +17,8 @@
 |     Family        |
 |-------------------|
 |We are six siblings|
-|-------------------|
-|two girls           |
-|--------------------|
-|four boys           |
+|two girls          |
+|four boys          |
 
 |Learning     |
 |-------------|
