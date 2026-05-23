@@ -1,6 +1,6 @@
 # Mikee C. Abela
 
-##About me
+**About me**
 -
 I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to lern new things and all walks of life, especially technology and practical skills.
 
@@ -9,18 +9,19 @@ I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to 
 
 -San Manuel, AKC Country Home Dagot rd.
 
-##Contact
+**Contact**
 -
-Github: 
+-Github:abelamikee27-ui
+-Email:abelamikee27@gmail.com
 
-##Hobbies
+**Hobbies**
 -
 -Reading wattpad books
 -Cooking
 -Cleaning
 -Traveling
 
-**'Foods'**
+**Foods**
 -
 -Afritada
 -Adobo
