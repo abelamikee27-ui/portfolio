@@ -20,6 +20,6 @@
 |two girls          |
 |four boys          |
 
-|Learning     |
-|-------------|
-|C++          |
+|Coding     |
+|-----------|
+|C++        |
