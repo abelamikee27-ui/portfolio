@@ -1,3 +1,10 @@
 # Mikee C. Abela
-# Mikee C. Abela
-**'playing softball • coding'**
+
+**'Softball'**
+**'Reading Wattpad books'**
+
+**'San Manuel, AKC Country Home Dagot rd.'**
+
+**Food**
+
+- Afritada
