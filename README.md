@@ -72,4 +72,4 @@ Email:abelamikee27@gmail.com
 
 **My main goal**
 -
-To be success and have a Engr. in our family
+To build a successful career and graduate as an Engineer, bringing this to achievement and pride to my Family
