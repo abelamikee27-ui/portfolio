@@ -10,9 +10,9 @@
 - Afritada
 - Adobo
 
-|Role    | Instituation|
-|--------|-------------|
-|Students|Engineering  |
+|Role    | Instituation            |
+|--------|-------------------------|
+|Students|Electronics Engineering  |
 
 |     Family        |
 |-------------------|
