@@ -5,10 +5,14 @@
 
 **'San Manuel, AKC Country Home Dagot rd.'**
 
-**Food**
+**Foods**
+-Afritada
+-Adobo
+-
 
-- Afritada
-- Adobo
+**Drinks**
+-Matcha
+-
 
 |Role    | Instituation            |
 |--------|-------------------------|
