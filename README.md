@@ -4,13 +4,10 @@
 ---
 
 **Project Description**
-ECE_ESP32_PCB_ABELA_EN1B
-
-Project Description
-
 This project is an ESP32-based Printed Circuit Board (PCB) designed for Electronics Engineering applications. The project demonstrates PCB design, circuit integration, and microcontroller implementation using the ESP32 module for embedded systems development.
 
-Features
+---
+# Features
 
 ESP32 microcontroller integration
 
@@ -22,117 +19,42 @@ Power supply regulation
 
 Easy component assembly
 
-Suitable for IoT and embedded system projects
+---
+# Components Used
 
-Components Used
+- ESP32 Development Module
 
-ESP32 Development Module
+- Resistors
 
-Resistors
+- Capacitors
 
-Capacitors
+- LEDs
 
-LEDs
+- Push Buttons
 
-Push Buttons
+- Voltage Regulator
 
-Voltage Regulator
+- PCB Board
 
-PCB Board
+- Header Pins
 
-Header Pins
-
-Jumper Wires
+- Jumper Wires
 
 Software Used
 
--EasyEDA
+- EasyEDA
 
--GitHub
+- GitHub
 
-Author Name
+# Author Name
 
-Mike Abela
+- Mike Abela
+  
+---
+  # Course & Section
 
-Course & Section
+- ECE/EN1B
 
-ECE/EN1B
 ---
 
-## 📍Location
 
-San Manuel, AKC Country Home Dagot rd.
-
-**Contact**
--
-Github:abelamikee27-ui
-Email:abelamikee27@gmail.com
-
-**Hobbies**
----
-Reading wattpad booksCooking
-
-CleaningTraveling
-
-**Foods**
----
-Afritada
-
-Adobo
-
-
-**Drinks**
----
-Matcha
-
-Coke
-
-
-**Colors**
----
-Purple
-
-Pink
-
-White
-
-Black
-
-
-
-
-|Role    | Instituation            |
-|--------|-------------------------|
-|Students|Electronics Engineering  |
-
-
-
-|     Family        |
-|-------------------|
-|We are six siblings|
-|two girls          |
-|four boys          |
-
-
-|Coding     |
-|-----------|
-|C++        |
-
-
-
-**Project**
----
-Arduino LED Blink
-
-Solar Tracker
-
-Arduino LED Blinking using tinkercad
-
-EasyEDA schematic
-
-ESP32 expansion board
-
-
-**My main goal**
--
-To build a successful career and graduate as an Engineer, bringing this to achievement and pride to my Family
