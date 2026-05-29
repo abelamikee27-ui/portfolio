@@ -3,10 +3,61 @@
 
 ---
 
-**About me**
--
-I'm Mikee C. Abela studying Electronic Engineering. I am an eager to learner to lern new things and all walks of life, especially technology and practical skills.
+**Project Description**
+ECE_ESP32_PCB_ABELA_EN1B
 
+Project Description
+
+This project is an ESP32-based Printed Circuit Board (PCB) designed for Electronics Engineering applications. The project demonstrates PCB design, circuit integration, and microcontroller implementation using the ESP32 module for embedded systems development.
+
+Features
+
+ESP32 microcontroller integration
+
+Compact PCB layout design
+
+GPIO pin connections
+
+Power supply regulation
+
+Easy component assembly
+
+Suitable for IoT and embedded system projects
+
+Components Used
+
+ESP32 Development Module
+
+Resistors
+
+Capacitors
+
+LEDs
+
+Push Buttons
+
+Voltage Regulator
+
+PCB Board
+
+Header Pins
+
+Jumper Wires
+
+Software Used
+
+-EasyEDA
+
+-GitHub
+
+Author Name
+
+Mike Abela
+
+Course & Section
+
+ECE/EN1B
+---
 
 ## 📍Location
 
